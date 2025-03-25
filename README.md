@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # git-desafio-das-branchs
 =======
-# Meu Projeto
+# Ajustando conteúdo
 >>>>>>> 4aa0379 (chore: adiciona README incial)
