@@ -1,0 +1,2 @@
+-Adicionada nova funcionalidade
+-Ajustando conteudo do README
