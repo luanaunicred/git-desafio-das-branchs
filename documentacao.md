@@ -1,0 +1,2 @@
+- Adicionada nova funcionalidade
+- Corrigido erro de digitação no README
